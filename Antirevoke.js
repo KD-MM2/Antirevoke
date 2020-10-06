@@ -4,7 +4,7 @@ var PROXY = "PROXY 127.0.0.1:8021";
 var antirevoke = ["ppq",
 		"mesu",
 		"ocsp",
-		"world-gen"
+		"world-gen",
 		"gdmf"];
 
 function FindProxyForURL(url, host) {
