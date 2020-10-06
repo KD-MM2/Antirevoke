@@ -1,0 +1,1 @@
+Antirevoke iOS profile Supervised mode using HTTP Global Proxy auto config
