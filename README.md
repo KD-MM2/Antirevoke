@@ -1,1 +1,4 @@
-Antirevoke iOS profile Supervised mode using HTTP Global Proxy auto config
+Name: Antirevoke/OTA Block
+Type: iOS profile
+Work on: Supervised mode
+Method: HTTP Global Proxy auto config(PAC)
